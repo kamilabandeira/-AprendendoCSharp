@@ -1,0 +1,16 @@
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\bin\Debug\net5.0\Condicional.exe
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\bin\Debug\net5.0\Condicional.deps.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\bin\Debug\net5.0\Condicional.runtimeconfig.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\bin\Debug\net5.0\Condicional.runtimeconfig.dev.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\bin\Debug\net5.0\Condicional.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\bin\Debug\net5.0\ref\Condicional.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\bin\Debug\net5.0\Condicional.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\obj\Debug\net5.0\Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\obj\Debug\net5.0\Condicional.AssemblyInfoInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\obj\Debug\net5.0\Condicional.AssemblyInfo.cs
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\obj\Debug\net5.0\Condicional.csproj.CoreCompileInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\obj\Debug\net5.0\Condicional.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\obj\Debug\net5.0\ref\Condicional.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\obj\Debug\net5.0\Condicional.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\obj\Debug\net5.0\Condicional.genruntimeconfig.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Condicional\obj\Debug\net5.0\Condicional.csproj.AssemblyReference.cache

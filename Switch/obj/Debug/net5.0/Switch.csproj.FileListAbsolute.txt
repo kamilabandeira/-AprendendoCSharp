@@ -1,0 +1,15 @@
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\bin\Debug\net5.0\Switch.exe
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\bin\Debug\net5.0\Switch.deps.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\bin\Debug\net5.0\Switch.runtimeconfig.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\bin\Debug\net5.0\Switch.runtimeconfig.dev.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\bin\Debug\net5.0\Switch.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\bin\Debug\net5.0\ref\Switch.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\bin\Debug\net5.0\Switch.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\obj\Debug\net5.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\obj\Debug\net5.0\Switch.AssemblyInfoInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\obj\Debug\net5.0\Switch.AssemblyInfo.cs
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\obj\Debug\net5.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\obj\Debug\net5.0\Switch.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\obj\Debug\net5.0\ref\Switch.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\obj\Debug\net5.0\Switch.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\Switch\obj\Debug\net5.0\Switch.genruntimeconfig.cache

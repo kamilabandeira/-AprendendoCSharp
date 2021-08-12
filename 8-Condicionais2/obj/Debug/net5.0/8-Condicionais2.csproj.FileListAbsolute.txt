@@ -1,0 +1,15 @@
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\bin\Debug\net5.0\8-Condicionais2.exe
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\bin\Debug\net5.0\8-Condicionais2.deps.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\bin\Debug\net5.0\8-Condicionais2.runtimeconfig.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\bin\Debug\net5.0\8-Condicionais2.runtimeconfig.dev.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\bin\Debug\net5.0\8-Condicionais2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\bin\Debug\net5.0\ref\8-Condicionais2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\bin\Debug\net5.0\8-Condicionais2.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\net5.0\8-Condicionais2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\net5.0\8-Condicionais2.AssemblyInfoInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\net5.0\8-Condicionais2.AssemblyInfo.cs
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\net5.0\8-Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\net5.0\8-Condicionais2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\net5.0\ref\8-Condicionais2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\net5.0\8-Condicionais2.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\8-Condicionais2\obj\Debug\net5.0\8-Condicionais2.genruntimeconfig.cache

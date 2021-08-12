@@ -1,0 +1,16 @@
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\bin\Debug\net5.0\TestaCondicional2.exe
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\bin\Debug\net5.0\TestaCondicional2.deps.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\bin\Debug\net5.0\TestaCondicional2.runtimeconfig.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\bin\Debug\net5.0\TestaCondicional2.runtimeconfig.dev.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\bin\Debug\net5.0\TestaCondicional2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\bin\Debug\net5.0\ref\TestaCondicional2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\bin\Debug\net5.0\TestaCondicional2.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\net5.0\TestaCondicional2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\net5.0\TestaCondicional2.AssemblyInfoInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\net5.0\TestaCondicional2.AssemblyInfo.cs
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\net5.0\TestaCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\net5.0\TestaCondicional2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\net5.0\ref\TestaCondicional2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\net5.0\TestaCondicional2.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\net5.0\TestaCondicional2.genruntimeconfig.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\net5.0\TestaCondicional2.csproj.AssemblyReference.cache
