@@ -1,0 +1,16 @@
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.exe
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.deps.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.runtimeconfig.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.runtimeconfig.dev.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\bin\Debug\net5.0\ref\P12-CalculaInvetimentoLongoPrazo.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\bin\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.csproj.AssemblyReference.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\obj\Debug\net5.0\ref\P12-CalculaInvetimentoLongoPrazo.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P12-CalculaInvetimentoLongoPrazo\obj\Debug\net5.0\P12-CalculaInvetimentoLongoPrazo.genruntimeconfig.cache

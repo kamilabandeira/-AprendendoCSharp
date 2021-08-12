@@ -1,0 +1,15 @@
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.exe
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.deps.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.runtimeconfig.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.runtimeconfig.dev.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\ref\LacoDeRepeticaoFor.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\bin\Debug\net5.0\LacoDeRepeticaoFor.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.AssemblyInfoInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.AssemblyInfo.cs
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.csproj.CoreCompileInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\ref\LacoDeRepeticaoFor.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\LacoDeRepeticaoFor\obj\Debug\net5.0\LacoDeRepeticaoFor.genruntimeconfig.cache

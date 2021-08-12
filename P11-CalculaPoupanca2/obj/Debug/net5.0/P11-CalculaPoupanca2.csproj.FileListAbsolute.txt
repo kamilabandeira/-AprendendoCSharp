@@ -1,0 +1,16 @@
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.exe
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.deps.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.runtimeconfig.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.runtimeconfig.dev.json
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\ref\P11-CalculaPoupanca2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\bin\Debug\net5.0\P11-CalculaPoupanca2.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.csproj.AssemblyReference.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.AssemblyInfoInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.AssemblyInfo.cs
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\ref\P11-CalculaPoupanca2.dll
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.pdb
+C:\Users\Kamila\Desktop\Alura\AprendendoCSharp\P11-CalculaPoupanca2\obj\Debug\net5.0\P11-CalculaPoupanca2.genruntimeconfig.cache
